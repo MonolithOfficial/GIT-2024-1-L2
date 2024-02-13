@@ -3,8 +3,5 @@ public class SomeClass {
         System.out.println("change on master");
         System.out.println("change on master");
         System.out.println("change on master");
-        System.out.println("change on master");
-        System.out.println("change on master");
-        System.out.println("change on master");
     }
 }
